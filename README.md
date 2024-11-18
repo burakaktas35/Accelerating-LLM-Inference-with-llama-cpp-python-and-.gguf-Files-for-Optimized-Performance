@@ -1,0 +1,2 @@
+# Accelerating-LLM-Inference-with-llama-cpp-python-and-.gguf-Files-for-Optimized-Performance
+This project demonstrates the performance gains achieved by using llama-cpp-python with .gguf files compared to .safetensors with the Transformers library for LLM inference. The use of llama-cpp-python significantly decreases inference time, optimizing the speed of large language model completions in a local setting.
